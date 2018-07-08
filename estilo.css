@@ -1,15 +1,15 @@
 body {
-    background-color: green;
+    background-color: blue;
     color: white;
 }
 
 h1 { font-size: 20 px; }
 
-h2 { font-size: 10 px; }
+h2 { font-size: 12 px; }
 
 img {
-    width: 800px;
-    height: 533px;
-    border: 1px solid red;
+    width: 400px;
+    height: 266px;
+    border: 2px solid red;
 }
 
