@@ -1,11 +1,11 @@
 body {
-    background-color: blue;
-    color: white;
+    background-color: pink;
+    color: blue;
 }
 
 h1 { font-size: 20 px; }
 
-h2 { font-size: 12 px; }
+h2 { font-size: 14 px; }
 
 img {
     width: 400px;
