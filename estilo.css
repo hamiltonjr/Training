@@ -3,3 +3,13 @@ body {
     color: white;
 }
 
+h1 { font-size: 20 px; }
+
+h2 { font-size: 10 px; }
+
+img {
+    width: 800px;
+    height: 533px;
+    border: 1px solid red;
+}
+
